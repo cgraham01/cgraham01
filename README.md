@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Chris Graham! 
-- 👀 I’m interested in climate change,ecology and sustainability.  
-- 🌱 conducting research usign climate data science, GIS and social networks. 
+- 👀 I’m interested in Energy, climate change,ecology and sustainability.  
+- 🌱 conducting research usign statistical analysis, Geographic Information Systems (GIS) and social network analysis. 
 - 💞️ I’m looking to collaborate on climate/environmental data analysis projects. 
 - 📫 You can reach me here on my github! 
 <!---
